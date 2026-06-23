@@ -5,6 +5,8 @@
 *.DS_Store
 *.jpeg
 *.png 
+*.parquet
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
